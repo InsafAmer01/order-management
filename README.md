@@ -13,3 +13,6 @@ b.	How to create and run the docker image?
                       COPY ./public-html/ /usr/local/apache2/htdocs/
 2) docker build -t my-apache2 .
 3) docker run -dit --name my-running-app -p 8080:80 my-apache2
+
+
+![Screenshot 2023-07-04 200847](https://github.com/InsafAmer01/order-management/assets/111234991/9be8eb12-6c59-423c-8112-cc155a7a686c)
